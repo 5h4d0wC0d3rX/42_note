@@ -11,6 +11,8 @@ Bonjour à tous les codeurs ! Bienvenue dans notre fantastique répertoire rempl
 3. [Notes C 02](#notes-c-02)
 4. [Notes C 03](#notes-c-03)
 5. [Notes C 04](#notes-c-04)
+6. [Notes C 05](#notes-c-05)
+7. [Notes C 06](#notes-c-06)
 
 ### Notes C 00
 
@@ -41,6 +43,18 @@ Apprenez les fonctions avancées de manipulation de chaînes avec C 03. Cette se
 Affrontez les nombres et les conversions avec C 04. Des manipulations simples de nombres aux conversions de bases complexes, cette section a tout pour plaire.
 
 [Lisez les Notes C 04](./C_04.md)
+
+### Notes C 05
+
+Découvrez les algorithmes récursifs et itératifs avec C 05. Cette section vous guidera à travers des concepts mathématiques essentiels tels que la factorielle, les puissances, et les nombres premiers.
+
+[Lisez les Notes C 05](./C_05.md)
+
+### Notes C 06
+
+Apprenez à gérer les arguments de ligne de commande avec C 06. Cette section vous montrera comment manipuler et afficher les arguments passés à vos programmes.
+
+[Lisez les Notes C 06](./C_06.md)
 
 ---
 
